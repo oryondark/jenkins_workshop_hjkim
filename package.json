@@ -1,0 +1,13 @@
+{
+  "name": "nodejs_dockerized",
+  "version": "0.0.0",
+  "description": "0.0.0 version is a beta test",
+  "author": "hjkim, 4u_olion@naver.com",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
