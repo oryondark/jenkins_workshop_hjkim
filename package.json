@@ -1,7 +1,7 @@
 {
   "name": "nodejs_dockerized",
   "version": "0.0.1",
-  "description": "0.0.1 version is a beta test",
+  "description": "0.0.1 version is a beta serivce",
   "author": "hjkim, 4u_olion@naver.com",
   "main": "server.js",
   "scripts": {
