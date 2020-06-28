@@ -10,5 +10,7 @@ You can call me 'Jey'!
 4. setup webhook your github cloned repository
 5. setup git for pushed event in jenkins server
 6. change autor from your **pakcage.json**
-7. `git add . & git commit -m 'update' & git push -u origin master`
+7. add content of build_script to **build** in jenkins configuration
+8. add `jenkins ALL=(ALL) NOPASSWD: ALL` to **/etc/sudoers**
+9. `git add . & git commit -m 'update' & git push -u origin master`
 

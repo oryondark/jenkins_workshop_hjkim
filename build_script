@@ -1,0 +1,5 @@
+sudo yum -y install docker gcc
+sudo docker build -t $TAG .
+sudo docker run -p $BOUNDPORT:8080 -d $TAG
+sudo docker ps > log.txt
+
